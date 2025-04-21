@@ -20,11 +20,9 @@ A secure and user-friendly online voting system built using JavaFX, MySQL, and J
 ## Run the App
 1. Import into your Java IDE (IntelliJ / Eclipse / VS Code)
 2. Make sure JavaFX and JDBC drivers are configured
-3. Set up your database using `voting_db_schema.sql`
+3. Set up your database using `voting_db.sql`
 4. Run the `VotingSystem.java` file
 
-## Screenshots
-*(Add your screenshots here for login, dashboard, result view, etc.)*
 
 ## License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
